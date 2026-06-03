@@ -2,7 +2,7 @@
   "name": "pitman",
   "displayName": "Pitman",
   "description": "Project-native HTTP client for VS Code. No login, no cloud.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "publisher": "bixihq",
   "repository": {
     "type": "git",
