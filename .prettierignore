@@ -1,0 +1,8 @@
+node_modules
+dist
+out
+media
+.vscode-test
+
+*.vsix
+.nyc_output
